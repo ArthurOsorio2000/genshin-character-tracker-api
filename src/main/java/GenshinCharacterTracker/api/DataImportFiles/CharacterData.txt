@@ -1,0 +1,125 @@
+//-------------------------------------------------Mondstadt---------------------------------------------------//
+//0, 1, 2
+!Mondstadt
+//Freedom Characters
+~0
+#Aloy
+#Amber
+#Barbara
+#Diona
+#Sucrose
+#Klee
+!Snezhnaya
+#Tartaglia
+!Mondstadt
+//Resistance Characters
+~1
+#Bennett
+#Noelle
+#Razor
+#Diluc
+#Eula
+#Jean
+#Mona
+//Ballad Characters
+~2
+#Fischl
+#Kaeya
+#Lisa
+#Mika
+#Rosaria
+#Albedo
+#Venti
+//---------------------------------------------------Liyue-----------------------------------------------------//
+//3, 4, 5
+!Liyue
+//Prosperity Characters
+~3
+#Gaming
+#Ningguang
+#Keqing
+#Qiqi
+#Shenhe
+#Xiao
+#Yelan
+//Diligence Characters
+~4
+#Chongyun
+#Xiangling
+#Yaoyao
+#Yun Jin
+#Ganyu
+#Hu Tao
+#Kazuha
+//Gold Characters
+~5
+#Beidou
+#Xingqiu
+#Xinyan
+#Yanfei
+#Baizhu
+#Xianyun
+#Zhongli
+//---------------------------------------------------Inazuma---------------------------------------------------//
+//6, 7, 8
+!Inazuma
+//Transience Characters
+~6
+#Kirara
+#Heizou
+#Thoma
+#Kokomi
+#Yoimiya
+//Elegance Characters
+~7
+#Kujou Sara
+#Kuki Shinobu
+#Arataki Itto
+#Kamisato Ayaka
+#Kamisato Ayato
+//Light Characters
+~8
+#Gorou
+#Sayu
+#Raiden Shogun
+#Yae Miko
+//---------------------------------------------------Sumeru----------------------------------------------------//
+//9, 10, 11
+!Sumeru
+//Admonition Characters
+~9
+#Candace
+#Faruzan
+#Cyno
+#Tighnari
+//Ingenuity Characters
+~10
+#Dori
+#Kaveh
+#Layla
+#Alhaitham
+#Nahida
+//Praxis Characters
+~11
+#Collei
+#Dehya
+#Nilou
+#Wanderer
+//--------------------------------------------------Fontaine---------------------------------------------------//
+//12, 13, 14
+!Fontaine
+//Equity Characters
+~12
+#Navia
+#Lyney
+#Neuvillette
+//Justice Characters
+~13
+#Charlotte
+#Freminet
+#Furina
+//Order Characters
+~14
+#Chevreuse
+#Lynette
+#Wriothesley
