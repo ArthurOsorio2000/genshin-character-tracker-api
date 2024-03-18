@@ -1,0 +1,1 @@
+# genshin-character-tracker-api
